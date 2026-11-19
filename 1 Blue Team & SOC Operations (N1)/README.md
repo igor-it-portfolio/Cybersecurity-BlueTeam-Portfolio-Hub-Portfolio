@@ -1,58 +1,31 @@
-# 🛡️ Data Governance, Data Stewardship & Quality Frameworks
+# 🛡️ 1. Blue Team & SOC Operations (N1)
 
 **PT-BR:**  
-Este repositório é dedicado à aplicação prática de **Governança de Dados, Custódia (Data Stewardship) e Qualidade da Informação** em ambientes corporativos.
+Esta seção é dedicada aos meus laboratórios práticos e documentações focadas em **operações de Blue Team e Analista de SOC (Nível 1)**.
 
-Aqui apresento frameworks operacionais, modelos de governança, catálogos e processos fundamentados no **DAMA-DMBOK** e em normas de privacidade (LGPD/GDPR). O objetivo é demonstrar como estruturar papéis de *Data Owners/Stewards*, definir regras de qualidade e profiling, gerenciar metadados, mapear a linhagem e implementar o ciclo de vida da informação para construir ecossistemas de dados auditáveis, confiáveis e seguros.
-
-**EN:**  
-This repository is dedicated to the practical application of **Data Governance, Data Stewardship, and Data Quality** in enterprise environments.
-
-Here I present operational frameworks, governance models, cataloging practices, and workflows grounded in **DAMA-DMBOK** and privacy regulations (LGPD/GDPR). The goal is to demonstrate how to structure *Data Owner/Steward* roles, define quality validation rules, manage metadata, track data lineage, and enforce data lifecycle policies to build auditable, reliable, and compliant data ecosystems.
-
----
-
-## 🚀 Projects & Practical Frameworks / Projetos e Frameworks Práticos
-
-### 📋 [EDCF - Enterprise Data Governance, Custody & Compliance Framework (WORM)](https://github.com/igor-it-portfolio/edcf-aws-terraform-compliance)
-
-> **Focus:** *Data Governance, Data Stewardship, Data Custody, Quality Control, Data Lifecycle Management, Retention Policies, and LGPD/GDPR Compliance.*
-
-**PT-BR:**  
-Framework desenvolvido para demonstrar controles operacionais de governança, qualidade e custódia no gerenciamento de ativos de dados críticos. Explora a aplicação de retenção de dados imutável (WORM), rastreabilidade, ciclo de vida e definição formal de responsabilidades para garantir a integridade, acurácia, auditoria e conformidade normativa dos dados.
+Aqui concentro exercícios voltados para **monitoramento de sistemas, triagem e classificação de alertas, análise básica de logs, inspeção de tráfego de rede (Wireshark) e resposta inicial a incidentes** — aplicando uma abordagem estruturada para identificar comportamentos suspeitos e documentar evidências.
 
 **EN:**  
-Framework developed to demonstrate operational governance, data quality, and custody controls for managing critical data assets. It explores immutable data retention (WORM), traceability, lifecycle enforcement, and formal stewardship roles to ensure integrity, accuracy, auditability, and regulatory compliance.
+This section is dedicated to my hands-on labs and documentation focused on **Blue Team operations and SOC Analyst (Tier 1)** workflows.
+
+Here I organize exercises covering **system monitoring, alert triage and classification, basic log analysis, network traffic inspection (Wireshark), and initial incident response**—applying a structured approach to identify suspicious activity and document findings.
 
 ---
 
-### 📋 [Data Governance Cloud Foundations (Project 1)](https://github.com/igor-it-portfolio/data-governance-cloud-foundations-Project1)
+## 🚀 Hands-On Labs & SOC Projects / Laboratórios Práticos e Projetos de SOC
 
-> **Focus:** *Data Governance Foundations, Data Quality, Metadata Management, Data Lineage, SQL Audit, and DAMA-DMBOK Operationalization.*
+> 🛠️ **In Progress / Em Construção:** Practical labs covering network packet analysis (Wireshark), log investigation, alert triage scenarios, and SOC N1 incident response playbooks are currently being structured and added here.
 
-**PT-BR:**  
-Projeto prático desenvolvido para demonstrar a implementação de um Programa de Governança de Dados alinhado ao framework DAMA-DMBOK. Abrange a definição do Modelo Operacional de Governança (Carta da Governança e Matriz RACI para Data Stewards, Owners e Custodians), Catálogo e Dicionário de Metadados Corporativo, Mapeamento de Linhagem de Dados (Data Lineage) e uma suíte completa de scripts SQL para auditoria e monitoramento de Data Quality (completude, validade e unicidade).
-
-**EN:**  
-Practical project developed to demonstrate the implementation of an Enterprise Data Governance Program aligned with the DAMA-DMBOK framework. It covers the definition of the Governance Operating Model (Data Governance Charter and RACI Matrix for Data Stewards, Owners, and Custodians), Corporate Metadata Catalog & Business Glossary, Business Data Lineage mapping, and a comprehensive suite of SQL scripts for Data Quality auditing and monitoring (completeness, validity, and uniqueness).
-
+*(Os projetos anteriores de Governança de Dados, Custódia e Privacidade foram reorganizados na Pasta 3 — GRC, Data Governance & Document Management).*
 
 ---
 
-## 🛠️ Key Governance Domains / Domínios de Atuação
+## 🔍 Focus Areas / Áreas de Foco (SOC N1)
 
-* **Data Governance & Stewardship:** Estruturação do modelo operacional de governança, definição de papéis (*Data Owners* e *Data Stewards*), políticas de acesso e políticas de uso de dados.
-* **Data Quality & Profiling:** Definição e monitoramento de dimensões de qualidade (Acurácia, Completude, Consistência, Validade e Unicidade), regras de validação e *data profiling*.
-* **Metadata & Cataloging:** Documentação de dicionários de dados, glossário de negócios (*Business Glossary*), catálogo de dados e linhagem do dado (*Data Lineage*).
-* **Data Lifecycle & Compliance:** Gestão do ciclo de vida da informação (coleta, armazenamento, retenção, arquivamento e descarte seguro), classificação de sensibilidade (PII) e conformidade com LGPD/GDPR.
-
----
-
-## 🎯 Key Strategic Pillars / Pilares Estratégicos
-
-- **Data Governance & Trust:** Estruturação de processos e controles que garantem a acurácia, governança e confiabilidade dos ativos de informação.
-- **Operational Stewardship:** Prática ativa de custódia e governança no dia a dia da gestão e arquitetura de dados.
-- **Privacy & Governance by Design:** Incorporação contínua de princípios de segurança, privacidade e retenção desde a coleta do dado.
+- **Security Monitoring & Alert Triage:** Identificação de falsos positivos vs. alertas reais e priorização de eventos.
+- **Network Traffic Analysis:** Inspeção básica de pacotes e protocolos com Wireshark para detectar anomalias.
+- **Log Investigation:** Leitura e correlação básica de logs de sistema e auditoria.
+- **Initial Incident Response:** Documentação de ocorrências e passos iniciais de contenção (*playbooks* N1).
 
 ---
 
