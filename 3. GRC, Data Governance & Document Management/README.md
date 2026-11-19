@@ -27,13 +27,30 @@ Projects explore concepts such as **Advanced SQL Queries, Dimensional Modeling, 
 
 ## 🚀 Projects & Case Studies / Projetos & Casos Práticos
 
-### 📊 1. Data Quality & Executive Performance Dashboard (Power BI + SQL)
-> **Descrição:** Desenvolvimento de painel gerencial em Power BI conectado a base relacional via SQL. O projeto foca no acompanhamento de KPIs estratégicos do negócio combinados com métricas operacionais de qualidade da informação (taxa de preenchimento, inconsistências cadastrais e duplicidades).
-> 
-> **Principais Entregas:**
-> - Queries SQL para sanitização e modelagem de dados.
-> - Modelo dimensional (Star Schema) otimizado no Power BI.
-> - Indicadores de consistência e acurácia dos dados para uso por *Data Stewards*.
+### 📋 [EDCF - Enterprise Data Governance, Custody & Compliance Framework (WORM)](https://github.com/igor-it-portfolio/edcf-aws-terraform-compliance)
+
+> **Focus:** *Data Governance, Data Stewardship, Data Custody, Quality Control, Data Lifecycle Management, Retention Policies, and LGPD/GDPR Compliance.*
+
+**PT-BR:**  
+Framework desenvolvido para demonstrar controles operacionais de governança, qualidade e custódia no gerenciamento de ativos de dados críticos. Explora a aplicação de retenção de dados imutável (WORM), rastreabilidade, ciclo de vida e definição formal de responsabilidades para garantir a integridade, acurácia, auditoria e conformidade normativa dos dados.
+
+**EN:**  
+Framework developed to demonstrate operational governance, data quality, and custody controls for managing critical data assets. It explores immutable data retention (WORM), traceability, lifecycle enforcement, and formal stewardship roles to ensure integrity, accuracy, auditability, and regulatory compliance.
+
+---
+
+### 📋 [Data Governance Cloud Foundations (Project 1)](https://github.com/igor-it-portfolio/data-governance-cloud-foundations-Project1)
+
+> **Focus:** *Data Governance Foundations, Data Quality, Metadata Management, Data Lineage, SQL Audit, and DAMA-DMBOK Operationalization.*
+
+**PT-BR:**  
+Projeto prático desenvolvido para demonstrar a implementação de um Programa de Governança de Dados alinhado ao framework DAMA-DMBOK. Abrange a definição do Modelo Operacional de Governança (Carta da Governança e Matriz RACI para Data Stewards, Owners e Custodians), Catálogo e Dicionário de Metadados Corporativo, Mapeamento de Linhagem de Dados (Data Lineage) e uma suíte completa de scripts SQL para auditoria e monitoramento de Data Quality (completude, validade e unicidade).
+
+**EN:**  
+Practical project developed to demonstrate the implementation of an Enterprise Data Governance Program aligned with the DAMA-DMBOK framework. It covers the definition of the Governance Operating Model (Data Governance Charter and RACI Matrix for Data Stewards, Owners, and Custodians), Corporate Metadata Catalog & Business Glossary, Business Data Lineage mapping, and a comprehensive suite of SQL scripts for Data Quality auditing and monitoring (completeness, validity, and uniqueness).
+
+
+---
 
 
 ---
