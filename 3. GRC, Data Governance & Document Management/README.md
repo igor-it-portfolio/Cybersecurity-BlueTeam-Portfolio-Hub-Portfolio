@@ -1,65 +1,48 @@
-# 📈 BI, Data Analytics & Data Quality Insights
+# 📁 3. GRC, Data Governance & Document Management — *Prior Background*
 
-**PT-BR:**
-Este repositório é dedicado ao desenvolvimento de soluções de **Business Intelligence, Análise de Dados com SQL e Monitoramento de Qualidade de Dados**.
+**PT-BR:**  
+Esta seção reúne projetos selecionados da minha trajetória prévia de **6+ anos em Governança de Dados, Gestão Documental e Privacidade (LGPD/GDPR)**.
 
-Aqui demonstro na prática como transformar dados brutos e não estruturados em **dashboards interativos (Power BI), análises exploratórias (SQL) e indicadores de qualidade (Data Quality Metrics)**, apoiando a validação de regras de negócio, a correção de inconsistências e a tomada de decisão estratégica.
+Embora o meu foco atual esteja direcionado para **Blue Team / SOC (N1) e Segurança da Informação**, mantive estes projetos como referência complementar de **GRC (Governança, Riscos e Conformidade)** — demonstrando experiência prática em classificação da informação, ciclo de vida e retenção documental, custódia de ativos críticos e trilhas de auditoria.
 
-Os projetos contemplam a aplicação de **Consultas SQL Avançadas, Modelagem Dimensional, Desenvolvimento de KPIs, Data Profiling, Visualização de Dados e Automação de Relatórios**.
+**EN:**  
+This section brings together selected projects from my **6+ years of prior background in Data Governance, Document Management, and Data Privacy (LGPD/GDPR)**.
 
-**EN:**
-This repository is dedicated to building **Business Intelligence solutions, SQL Data Analytics, and Data Quality Monitoring systems**.
-
-Here I demonstrate how to transform raw, unstructured data into **interactive dashboards (Power BI), exploratory SQL analyses, and quality metrics (Data Quality Metrics)**, supporting business rule validation, anomaly detection, and strategic decision-making.
-
-Projects explore concepts such as **Advanced SQL Queries, Dimensional Modeling, KPI Development, Data Profiling, Data Visualization, and Reporting Automation**.
+While my current career focus is directed toward **Blue Team / SOC (N1) and Information Security**, these projects are maintained as supporting **GRC (Governance, Risk, and Compliance)** background—demonstrating practical experience in information classification, document retention and lifecycle, critical asset custody, and audit readiness.
 
 ---
 
-## 🛠️ Tech Stack & Key Concepts / Tecnologias & Conceitos Clave
-
-- **SQL & Querying:** Data Profiling, Aggregations, Joins, Window Functions, Business Rules Validation.
-- **Power BI & Data Viz:** Interactive Dashboards, DAX Metrics, Dimensional Modeling (Star Schema), UX/UI for Data.
-- **Data Quality & Metrics:** Accuracy, Completeness, Consistency, Timeliness Monitoring, Profiling Reports.
-- **Decision Support:** Translating technical metrics into business KPIs for stakeholders and Data Stewards.
-
----
-
-## 🚀 Projects & Case Studies / Projetos & Casos Práticos
+## 🚀 Selected GRC & Governance Projects / Projetos Selecionados
 
 ### 📋 [EDCF - Enterprise Data Governance, Custody & Compliance Framework (WORM)](https://github.com/igor-it-portfolio/edcf-aws-terraform-compliance)
 
-> **Focus:** *Data Governance, Data Stewardship, Data Custody, Quality Control, Data Lifecycle Management, Retention Policies, and LGPD/GDPR Compliance.*
+> **Focus:** *Asset Custody, Immutable Retention (WORM), Data Lifecycle, Auditability, and LGPD/GDPR Compliance.*
 
 **PT-BR:**  
-Framework desenvolvido para demonstrar controles operacionais de governança, qualidade e custódia no gerenciamento de ativos de dados críticos. Explora a aplicação de retenção de dados imutável (WORM), rastreabilidade, ciclo de vida e definição formal de responsabilidades para garantir a integridade, acurácia, auditoria e conformidade normativa dos dados.
+Framework desenvolvido para demonstrar controles operacionais de custódia, retenção imutável (WORM) e ciclo de vida no gerenciamento de ativos de informação críticos, garantindo integridade, rastreabilidade e conformidade normativa.
 
 **EN:**  
-Framework developed to demonstrate operational governance, data quality, and custody controls for managing critical data assets. It explores immutable data retention (WORM), traceability, lifecycle enforcement, and formal stewardship roles to ensure integrity, accuracy, auditability, and regulatory compliance.
+Framework developed to demonstrate operational custody controls, immutable retention (WORM), and lifecycle management for critical information assets, ensuring integrity, traceability, and regulatory compliance.
 
 ---
 
 ### 📋 [Data Governance Cloud Foundations (Project 1)](https://github.com/igor-it-portfolio/data-governance-cloud-foundations-Project1)
 
-> **Focus:** *Data Governance Foundations, Data Quality, Metadata Management, Data Lineage, SQL Audit, and DAMA-DMBOK Operationalization.*
+> **Focus:** *Information Classification, Governance Operating Model (RACI), Metadata Management, and Audit Controls.*
 
 **PT-BR:**  
-Projeto prático desenvolvido para demonstrar a implementação de um Programa de Governança de Dados alinhado ao framework DAMA-DMBOK. Abrange a definição do Modelo Operacional de Governança (Carta da Governança e Matriz RACI para Data Stewards, Owners e Custodians), Catálogo e Dicionário de Metadados Corporativo, Mapeamento de Linhagem de Dados (Data Lineage) e uma suíte completa de scripts SQL para auditoria e monitoramento de Data Quality (completude, validade e unicidade).
+Implementação de estrutura de governança alinhada ao DAMA-DMBOK, contemplando definição de responsabilidades (Matriz RACI para custodiantes e proprietários de ativos), catálogo de metadados, linhagem e controles de auditoria e qualidade.
 
 **EN:**  
-Practical project developed to demonstrate the implementation of an Enterprise Data Governance Program aligned with the DAMA-DMBOK framework. It covers the definition of the Governance Operating Model (Data Governance Charter and RACI Matrix for Data Stewards, Owners, and Custodians), Corporate Metadata Catalog & Business Glossary, Business Data Lineage mapping, and a comprehensive suite of SQL scripts for Data Quality auditing and monitoring (completeness, validity, and uniqueness).
-
-
----
-
+Implementation of a governance structure aligned with DAMA-DMBOK, covering responsibility assignment (RACI Matrix for asset custodians and owners), metadata cataloging, lineage, and audit/quality controls.
 
 ---
 
-## 🎯 Strategic Pillars / Pilares Técnicos
+## 🛠️ Supporting GRC & Compliance Skills / Competências de Apoio
 
-- **Actionable Insights:** Transformação de dados brutos em informação limpa, confiável e pronta para decisão.
-- **Data Quality Assurance:** Monitoramento contínuo da integridade e consistência das bases analíticas.
-- **Data Storytelling:** Comunicação clara de métricas complexas através de relatórios e painéis interativos.
+- **Information Classification & Lifecycle:** Classificação de sensibilidade (PII), políticas de retenção, arquivamento e descarte seguro.
+- **Data Privacy & Compliance:** Conformidade regulatória (**LGPD / GDPR**), mapeamento de dados pessoais (ROPA) e preparação para auditorias.
+- **Asset Custody & Stewardship:** Definição formal de responsabilidades sobre ativos críticos e controle de integridade documental.
 
 ---
 
