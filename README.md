@@ -32,7 +32,7 @@ Esses projetos práticos são apoiados pela minha **base prévia de 6+ anos em G
 
 ## 🚀 Portfolio Areas / Áreas do Portfólio
 
-### 🛡️ 1. Blue Team & SOC Operations (N1) — *Primary Focus*
+### 🛡️ [1. Blue Team & SOC Operations (N1)](https://github.com/igor-it-portfolio/Cybersecurity-BlueTeam-Portfolio-Hub-Portfolio/tree/main/1%20Blue%20Team%20%26%20SOC%20Operations%20(N1)) — *Primary Focus*
 
 **PT-BR:** Monitoramento de sistemas, triagem e classificação de alertas, investigação básica de logs, análise de tráfego de rede (Wireshark), resposta inicial a incidentes e fundamentos operacionais (Linux e Bash).
 
@@ -40,7 +40,7 @@ Esses projetos práticos são apoiados pela minha **base prévia de 6+ anos em G
 
 ---
 
-### 🔐 2. Information Security, IAM & Cloud Basics — *General InfoSec*
+### 🔐 [2. Information Security, IAM & Cloud Basics](https://github.com/igor-it-portfolio/Cybersecurity-BlueTeam-Portfolio-Hub-Portfolio/tree/main/2.%20Information%20Security%2C%20IAM%20%26%20Cloud%20Basics) — *General InfoSec*
 
 **PT-BR:** Controle de acessos e identidades (IAM / Menor Privilégio), proteção de ativos críticos, noções de vulnerabilidades, políticas de segurança, trilhas de auditoria e fundamentos de segurança em nuvem (AWS).
 
@@ -48,7 +48,7 @@ Esses projetos práticos são apoiados pela minha **base prévia de 6+ anos em G
 
 ---
 
-### 📁 3. GRC, Data Governance & Document Management — *Prior Background*
+### 📁 [3. GRC, Data Governance & Document Management](https://github.com/igor-it-portfolio/Cybersecurity-BlueTeam-Portfolio-Hub-Portfolio/tree/main/3.%20GRC%2C%20Data%20Governance%20%26%20Document%20Management) — *Prior Background*
 
 **PT-BR:** Bagagem prévia de 6+ anos em Governança de Dados e Gestão Documental, classificação da informação, ciclo de vida do dado e conformidade regulatória com LGPD/GDPR *(mantida como base complementar de compliance e análise)*.
 
