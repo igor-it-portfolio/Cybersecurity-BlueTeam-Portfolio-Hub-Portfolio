@@ -1,91 +1,82 @@
-# 🛡️ Data Governance, Data Stewardship & Quality Portfolio
+# 🛡️ Cybersecurity & Blue Team Portfolio Hub
 
-![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=dama&logoColor=white)
-![Data Stewardship](https://img.shields.io/badge/Data%20Stewardship-%23003366.svg?style=for-the-badge)
-![Data Quality](https://img.shields.io/badge/Data%20Quality-%23005A9C.svg?style=for-the-badge)
-![Data Privacy](https://img.shields.io/badge/Data%20Privacy%20(LGPD%2FGDPR)-%23008080.svg?style=for-the-badge)
-![Cloud Governance](https://img.shields.io/badge/Cloud%20Governance-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![BI & SQL](https://img.shields.io/badge/BI%20%26%20SQL-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Blue Team](https://img.shields.io/badge/Blue%20Team-%23003366.svg?style=for-the-badge&logo=shield&logoColor=white)
+![SOC Analyst N1](https://img.shields.io/badge/SOC%20Analyst%20(N1)-%23005A9C.svg?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Information Security](https://img.shields.io/badge/Information%20Security-%231B365D.svg?style=for-the-badge&logo=cyberdefenders&logoColor=white)
+![GRC & Privacy](https://img.shields.io/badge/GRC%20%26%20Privacy%20(LGPD)-%23008080.svg?style=for-the-badge)
+![AWS Security](https://img.shields.io/badge/AWS%20Cloud%20Basics-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-# 🛡️ Central Hub | Data Governance, Quality & Analytics Portfolio
+# 🛡️ Central Hub | Blue Team, SOC (N1) & Information Security Portfolio
 
 ## 🇺🇸 English Version:
 
-This is my central portfolio for **Data Governance, Data Stewardship, Data Quality, Cloud Governance, Privacy (LGPD/GDPR), and BI/Analytics**.
+This is my central portfolio for **Cybersecurity, Blue Team operations, SOC (N1), and Information Security**.
 
-Here I demonstrate practical approaches to building trusted, compliant, and analytics-ready data environments, combining **DAMA-DMBOK frameworks, Data Stewardship operating models, Data Profiling, metadata management, cloud access controls, and interactive BI dashboards**.
+As a **Postgraduate in Information Security** transitioning my career focus to defensive security, I use this hub to organize hands-on labs covering **system monitoring, alert triage, log analysis, initial incident response, and network traffic inspection**.
 
-My projects explore the end-to-end data lifecycle — from data custody, quality validation rules, and privacy controls to analytics and operational infrastructure — supporting secure, reliable, and data-driven decision-making.
+These practical projects are supported by my **6+ years of prior background in Data Governance, Document Management, Access Control, and Privacy Compliance (LGPD/GDPR)**—bringing analytical rigor and structured documentation to security operations.
 
 ---
 
 ## 🇧🇷 Versão em Português:
 
-Este é meu portfólio central de **Governança de Dados, Data Stewardship, Qualidade de Dados, Governança em Nuvem, Privacidade (LGPD/GDPR) e BI/Analytics**.
+Este é meu portfólio central de **Cibersegurança, operações de Blue Team, SOC (N1) e Segurança da Informação**.
 
-Aqui demonstro aplicações práticas para construção de ambientes de dados confiáveis, seguros e em conformidade normativa, combinando **frameworks DAMA-DMBOK, modelos operacionais de Data Stewardship, Data Profiling, gestão de metadados, controles de acesso em nuvem e painéis analíticos**.
+Como **Pós-graduado em Segurança da Informação** direcionando minha carreira para a área defensiva, utilizo este repositório central para organizar laboratórios práticos de **monitoramento de sistemas, triagem de alertas, análise de logs, resposta inicial a incidentes e inspeção de tráfego de rede**.
 
-Meus projetos exploram todo o ciclo de vida da informação — desde a custódia do dado, regras de validação de qualidade e controles de privacidade até a entrega de inteligência de negócios — contribuindo para decisões estratégicas baseadas em dados governados e auditáveis.
-
----
-
-## 🚀 Specialized Portfolio Areas
-
-### 🛡️ [1. Data Governance, Data Stewardship & Quality](https://github.com/igor-it-portfolio/Data-Analytics-Data-Quality-Governance-Portfolio/tree/main/1.%20Data%20Governance%2C%20Data%20Stewardship%20%26%20Quality)
-
-**PT-BR:** Governança de Dados (DAMA-DMBOK), Modelos Operacionais de Data Stewardship, Gestão de Qualidade, Data Profiling, Regras de Validação, Catálogo de Dados, Metadados e Conformidade com LGPD/GDPR.
-
-**EN:** Data Governance Frameworks (DAMA-DMBOK), Data Stewardship Operating Models, Data Quality Management, Data Profiling, Validation Rules, Data Cataloging, Metadata Management, and LGPD/GDPR Compliance.
+Esses projetos práticos são apoiados pela minha **base prévia de 6+ anos em Governança de Dados, Gestão Documental, Controle de Acessos e Privacidade (LGPD/GDPR)** — trazendo rigor analítico e documentação estruturada para as operações de segurança.
 
 ---
 
-### ☁️ [2. Cloud Governance, IAM & Data Protection](https://github.com/igor-it-portfolio/Data-Analytics-Data-Quality-Governance-Portfolio/tree/main/2.Cloud%20Governance%2C%20IAM%20%26%20Data%20Protection)
+## 🚀 Portfolio Areas / Áreas do Portfólio
 
-**PT-BR:** Governança em Nuvem (AWS), Gestão de Acessos e Identidades (IAM), Menor Privilégio, Criptografia (KMS), Proteção de Dados e Automação de Compliance (Terraform).
+### 🛡️ 1. Blue Team & SOC Operations (N1) — *Primary Focus*
 
-**EN:** Cloud Governance (AWS), Identity and Access Management (IAM), Least Privilege, Encryption (KMS), Data Protection, and Compliance Automation (Terraform).
+**PT-BR:** Monitoramento de sistemas, triagem e classificação de alertas, investigação básica de logs, análise de tráfego de rede (Wireshark), resposta inicial a incidentes e fundamentos operacionais (Linux e Bash).
 
----
-
-### 📈 [3. BI, Data Analytics & Data Quality Insights](https://github.com/igor-it-portfolio/Data-Analytics-Data-Quality-Governance-Portfolio/tree/main/3.BI%2C%20Data%20Analytics%20%26%20Data%20Quality%20Insights)
-
-**PT-BR:** Business Intelligence (Power BI), Análise de Dados com SQL, Desenvolvimento de KPIs, Métricas de Qualidade dos Dados, Visualização de Dados e Automação de Relatórios.
-
-**EN:** Business Intelligence (Power BI), SQL Data Analytics, KPI development, Data Quality Metrics, Data Visualization, and Reporting Automation.
+**EN:** System monitoring, alert triage and classification, basic log investigation, network traffic analysis (Wireshark), initial incident response, and operational foundations (Linux and Bash).
 
 ---
 
-### 🛠️ [4. Technical Foundations & Automation Controls](https://github.com/igor-it-portfolio/Data-Analytics-Data-Quality-Governance-Portfolio/tree/main/4.Technical%20Foundations%20%26%20Security%20Controls)
+### 🔐 2. Information Security, IAM & Cloud Basics — *General InfoSec*
 
-**PT-BR:** Automação em Bash Scripting, Linux, Monitoramento de Integridade, Trilhas de Auditoria, Terraform e Confiabilidade de Infraestrutura de Dados.
+**PT-BR:** Controle de acessos e identidades (IAM / Menor Privilégio), proteção de ativos críticos, noções de vulnerabilidades, políticas de segurança, trilhas de auditoria e fundamentos de segurança em nuvem (AWS).
 
-**EN:** Bash Scripting Automation, Linux, Integrity Monitoring, Audit Logs, Terraform, and Data Infrastructure Reliability.
+**EN:** Identity and access management (IAM / Least Privilege), critical asset protection, vulnerability awareness, security policies, audit trails, and cloud security basics (AWS).
+
+---
+
+### 📁 3. GRC, Data Governance & Document Management — *Prior Background*
+
+**PT-BR:** Bagagem prévia de 6+ anos em Governança de Dados e Gestão Documental, classificação da informação, ciclo de vida do dado e conformidade regulatória com LGPD/GDPR *(mantida como base complementar de compliance e análise)*.
+
+**EN:** 6+ years of prior background in Data Governance and Document Management, information classification, data lifecycle, and LGPD/GDPR regulatory compliance *(maintained as supporting background in compliance and analysis)*.
 
 ---
 
 ## 🎯 Objective / Objetivo
 
 **EN:**  
-To demonstrate practical expertise in **Data Governance (DAMA-DMBOK), Data Stewardship, Data Quality, Privacy (LGPD/GDPR), Cloud Governance, and BI/Analytics**. My portfolio shows how enterprise organizations can build reliable, transparent, and compliant data ecosystems by uniting governance frameworks, stewardship models, quality dimensions, and cloud security safeguards.
+To demonstrate practical foundations in **Cybersecurity, Blue Team operations (SOC N1), and Information Security**. My portfolio documents hands-on labs in system monitoring, alert triage, log investigation, network traffic analysis, and basic incident response—supported by prior experience in access control, privacy compliance (LGPD/GDPR), and asset protection.
 
 **PT-BR:**  
-Demonstrar expertise prática em **Governança de Dados (DAMA-DMBOK), Data Stewardship, Qualidade de Dados, Privacidade (LGPD/GDPR), Governança em Nuvem e BI/Analytics**. Meu portfólio apresenta como organizações corporativas podem construir ecossistemas de dados confiáveis, transparentes e seguros integrando frameworks de governança, modelos de custódia, monitoramento de qualidade e controles de nuvem.
+Demonstrar na prática os fundamentos de **Cibersegurança, operações de Blue Team (SOC N1) e Segurança da Informação**. Meu portfólio documenta laboratórios práticos de monitoramento de sistemas, triagem de alertas, investigação de logs, análise de tráfego de rede e resposta inicial a incidentes — apoiados pela experiência prévia em controle de acessos, conformidade com privacidade (LGPD/GDPR) e proteção de ativos.
 
 ---
 
 ## 👤 About Me / Sobre Mim
 
 **EN:**  
-**Data Governance Specialist | Data Steward | Data Quality & Privacy (LGPD/GDPR)** with 6+ years of experience managing enterprise data assets, operational stewardship, and compliance programs. My expertise encompasses **Data Governance Frameworks (DAMA-DMBOK), Data Stewardship, Data Profiling & Quality, Privacy Mapping (ROPA), Cloud Governance (AWS), SQL, BigQuery, and Power BI**.
+**Information Security Postgraduate | Blue Team & SOC Analyst (N1)** redirecting my career focus toward defensive cybersecurity and information security operations.
 
-I specialize in structuring data governance practices, establishing data stewardship workflows, defining quality rules, enforcing metadata management, and ensuring organizational data assets are trusted, well-governed, and compliant.
+I bring **6+ years of prior background in Data Governance and Document Management**, with experience in information classification, access control, regulatory compliance (**LGPD/GDPR**), and asset lifecycle in large-scale environments. Currently focused on building practical labs in security monitoring, alert triage, basic incident response, and network analysis.
 
 **PT-BR:**  
-**Especialista em Governança de Dados | Data Steward | Qualidade e Privacidade de Dados (LGPD/GDPR)** com mais de 6 anos de experiência atuando na custódia formal, governança operacional e conformidade de ativos de dados corporativos. Minha trajetória engloba **Frameworks de Governança (DAMA-DMBOK), Data Stewardship, Data Profiling e Qualidade, Mapeamento de Privacidade (ROPA), Governança em Nuvem (AWS), SQL, BigQuery e Power BI**.
+**Pós-graduado em Segurança da Informação | Analista Blue Team & SOC (N1)** direcionando meu foco profissional para a área de cibersegurança defensiva e operações de segurança da informação.
 
-Sou especialista em estruturar programas de governança, implementar papéis operacionais de *stewardship*, definir regras de validação de qualidade, gerenciar metadados e garantir que as bases de dados corporativas sejam confiáveis, auditáveis e aderentes às legislações de privacidade.
+Trago uma base prévia de **6+ anos em Governança de Dados e Gestão Documental**, com experiência em classificação da informação, controle de acessos, conformidade normativa (**LGPD/GDPR**) e gestão de ativos em ambientes de grande porte. Atualmente focado em laboratórios práticos de monitoramento de sistemas, triagem de alertas, resposta inicial a incidentes e análise de rede.
 
 ---
 
