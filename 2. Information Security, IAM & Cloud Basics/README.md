@@ -29,6 +29,12 @@ Here I demonstrate how technical controls—such as **Least Privilege, RBAC, aud
 - ⚙️ **[AWS Configuration & Controls Automation](https://github.com/igor-it-portfolio/terraform-aws-automation)**  
   *Focus:* Aplicação de padrões de configuração, rastreabilidade e controles básicos de infraestrutura em nuvem.
 
+### ⚙️ System Resilience & Backup Controls
+- ⚙️ **[Bash Automation & System Monitoring Framework](https://github.com/igor-it-portfolio/bash-maintenance-monitor)**  
+  *Focus:* Rotinas automatizadas em Bash para monitoramento de integridade e coleta de métricas operacionais em servidores.
+
+- 🔄 **[Data Backup Automation & Retention Governance](https://github.com/igor-it-portfolio/sysadmin-lab-backup-automation)**  
+  *Focus:* Automação de backups e políticas de retenção para continuidade operacional e proteção contra perda de dados.
 ---
 
 ## 🛠️ Focus Areas / Áreas de Atuação
